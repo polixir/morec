@@ -12,14 +12,14 @@ BACKUP_IGNORE_TAIL:
 - .tar
 - egg-info
 BASE_PATH: null
-LOG_DIR_BACKING_NAME: offlinerl_log_0917
+LOG_DIR_BACKING_NAME: offlineRL
 LOG_FOLDER_NAME: logfile
 LOG_FOLDER_NAME_BK: logfile_bk
 MAIN_MACHINE_IP:
-- 172.16.15.99
-MAIN_MACHINE_LOG_PATH: /mnt/FREENAS/ai/AlgDept/pdocker_logs/offlinerl_log_0917
-MAIN_MACHINE_PASSWD: luofanming
+- 192.168.1.1
+MAIN_MACHINE_LOG_PATH: /path/to/remote/log
+MAIN_MACHINE_PASSWD: user_name
 MAIN_MACHINE_PORT:
 - 22
-MAIN_MACHINE_USER: luofanming
-WORKSPACE_PATH: /home/luofm/Data
+MAIN_MACHINE_USER: user_name
+WORKSPACE_PATH: /path/to/remote/log

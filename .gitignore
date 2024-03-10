@@ -1,0 +1,17 @@
+**/__pycache__
+.idea/
+**/.DS_STORE
+**/log
+**/build
+**/dist
+**/*.egg-info
+**/*.txt
+**/.vscode
+**/_log
+run_all.json
+dynamics_reward_models
+d4rl_dataset_converted
+logfile
+tmp_folder
+ope_policy
+pretrained

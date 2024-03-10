@@ -1,0 +1,13 @@
+EXPERIMENT_COMMON_PARAMETERS:
+  SKIP_MAX_LEN_DONE: True
+EXPERIMENT_TARGET: "OfflineRL-Kit"
+SHORT_NAME_SUFFIX: INIT_TEST
+IMPORTANT_CONFIGS:
+- task
+- reward_use_type
+- rollout_length
+- penalty_coef
+- actor_lr
+- auto_alpha
+- real_ratio
+- seed

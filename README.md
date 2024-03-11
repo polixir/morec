@@ -20,7 +20,7 @@ pip install -e .
 ### docker
 
 ```bash
-docker pull core.116.172.93.164.nip.io:30670/public/luofanming:20231013102110
+docker pull core.116.172.93.164.nip.io:30670/public/luofanming:20240311171020
 ```
 
 ## Pretrained Dynamics Model
